@@ -10,6 +10,8 @@
 
 ## What is Haveno?
 
+ Haveno Main is independent instance of HavenoDex. It is not affilated with Haveno Core or Monero Core Team.
+
 Haveno (pronounced ha‧ve‧no) is an open source platform to exchange [Monero](https://getmonero.org) for fiat currencies like USD, EUR, and GBP or other cryptocurrencies like BTC, ETH, and BCH.
 
 Main features:
